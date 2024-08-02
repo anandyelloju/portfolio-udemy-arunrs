@@ -11,7 +11,7 @@ A portfolio project developed during a [Udemy course](https://www.udemy.com/cert
 - [Contributing](#contributing)
 - [Credits](#credits)
 - [License](#license)
-<!--
+
 ## Screenshots
 
 ![Homepage](ui/home.png)
@@ -19,7 +19,7 @@ A portfolio project developed during a [Udemy course](https://www.udemy.com/cert
 ![Projects](ui/projects.png)
 ![Contact](ui/contact.png)
 ![Footer](ui/footer.png)
-
+<!--
 ## Installation
 
 To set up this project locally, follow these steps:
