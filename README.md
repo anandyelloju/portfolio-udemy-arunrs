@@ -19,20 +19,20 @@ A portfolio project developed during a [Udemy course](https://www.udemy.com/cert
 ![Projects](ui/projects.png)
 ![Contact](ui/contact.png)
 ![Footer](ui/footer.png)
-<!--
+
 ## Installation
 
 To set up this project locally, follow these steps:
 1. Clone the repository:   
   ```
-  git clone https://github.com/anandyelloju/portfolio-udemy-arunrs.git
+  git clone https://github.com/anandyelloju/udemy-portfolio-arunrs.git
   ```
 2. Navigate to the project directory:
   ```
-  cd portfolio-udemy-arunrs
+  cd udemy-portfolio-arunrs
   ```
 3. Open the index.html file in your web browser to view the portfolio.
-
+<!--
 ## Usage
 
 After installation, you can view and edit the project directly in your web browser. The portfolio includes several sections:
