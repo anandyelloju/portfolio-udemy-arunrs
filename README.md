@@ -32,7 +32,7 @@ To set up this project locally, follow these steps:
   cd udemy-portfolio-arunrs
   ```
 3. Open the index.html file in your web browser to view the portfolio.
-<!--
+
 ## Usage
 
 After installation, you can view and edit the project directly in your web browser. The portfolio includes several sections:
@@ -55,7 +55,7 @@ To add a new project to the portfolio, update the index.html file as follows:
   </div>
 </div>
 ```
-
+<!--
 ## Features
 
 - **Project Showcase:** Highlight your best projects with descriptions and links.
