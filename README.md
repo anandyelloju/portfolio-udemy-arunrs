@@ -59,14 +59,14 @@ To add a new project to the portfolio, update the index.html file as follows:
 ## Features
 
 - **Project Showcase:** Highlight your best projects with descriptions and links.
-<!--
+
 ## Technologies Used
 
 - **HTML:** Markup language for creating web pages.
 - **CSS:** Stylesheet language for designing web pages.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,,vscode,github)](https://skillicons.dev)
-
+<!--
 ## Contributing
 
 Contributions are always welcome! - If you have suggestions or improvements.
