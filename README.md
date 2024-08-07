@@ -66,11 +66,11 @@ To add a new project to the portfolio, update the index.html file as follows:
 - **CSS:** Stylesheet language for designing web pages.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,,vscode,github)](https://skillicons.dev)
-<!--
+
 ## Contributing
 
 Contributions are always welcome! - If you have suggestions or improvements.
-
+<!--
 ## Credits
 
 - [Arunnachalam Shanmugaraajan](https://www.udemy.com/user/20cse099-arunnachalam-rs/): Instructor of the Udemy course
