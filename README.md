@@ -70,11 +70,11 @@ To add a new project to the portfolio, update the index.html file as follows:
 ## Contributing
 
 Contributions are always welcome! - If you have suggestions or improvements.
-<!--
+
 ## Credits
 
 - [Arunnachalam Shanmugaraajan](https://www.udemy.com/user/20cse099-arunnachalam-rs/): Instructor of the Udemy course
-
+<!--
 ## License
 
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/) - see the [LICENSE](https://github.com/anandyelloju/portfolio-udemy-arunrs/blob/main/LICENSE) file for details.
